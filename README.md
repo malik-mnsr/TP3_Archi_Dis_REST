@@ -9,7 +9,7 @@ The first step is to replicate the implementation from **TP2**, but using **REST
 Additionally, a **web service** will be created to **compare prices** from different agencies and display them on the **command-line interface (CLI)**. This will allow clients to choose the best offer before making a reservation.
 
 ### **High-Level Architecture**
-
+![Alt text](RESTwebservices.png)
 The implementation is divided into four main parts:
 
 #### **A. Hotel Side**
